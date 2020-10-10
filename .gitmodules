@@ -22,3 +22,9 @@
 [submodule "zip"]
 	path = zip
 	url = https://github.com/wilton-iot/tools_windows_zip.git
+[submodule "jdk32"]
+	path = jdk32
+	url = https://github.com/wilton-iot/tools_windows_jdk8u201_x86.git
+[submodule "jdk64"]
+	path = jdk64
+	url = https://github.com/wilton-iot/tools_windows_jdk8u201_x86_64.git
