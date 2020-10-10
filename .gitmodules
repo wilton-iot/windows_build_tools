@@ -1,0 +1,24 @@
+[submodule "mingw32"]
+	path = mingw32
+	url = https://github.com/wilton-iot/mingw-i686-6.4.0-release-win32-sjlj-rt_v5-rev0.git
+[submodule "mingw64"]
+	path = mingw64
+	url = https://github.com/wilton-iot/mingw-x86_64-6.4.0-release-win32-sjlj-rt_v5-rev0.git
+[submodule "nasm"]
+	path = nasm
+	url = https://github.com/wilton-iot/tools_windows_nasm.git
+[submodule "perl520"]
+	path = perl520
+	url = https://github.com/wilton-iot/tools_windows_perl520.git
+[submodule "pkgconfig"]
+	path = pkgconfig
+	url = https://github.com/wilton-iot/tools_windows_pkgconfig.git
+[submodule "wix"]
+	path = wix
+	url = https://github.com/wilton-iot/tools_windows_wix.git
+[submodule "wixgen"]
+	path = wixgen
+	url = https://github.com/wilton-iot/tools_windows_wixgen.git
+[submodule "zip"]
+	path = zip
+	url = https://github.com/wilton-iot/tools_windows_zip.git
